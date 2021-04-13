@@ -1,4 +1,7 @@
 ## Project Name : avocado_project 🥑
+
+빅데이터 마에스트로 과정 교육과정 중 진행한 프로젝트.
+
 avocado project는 사이트 kaggle에 있는 데이터를 이용해 avocado 가격 예측 모델을 만드는 프로젝트입니다.
 
 - folder "avocado_project_jupyter_file"
